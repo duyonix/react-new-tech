@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "dracula-theme.theme-dracula",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "ms-azuretools.vscode-docker",
+    "github.copilot",
+    "wix.vscode-import-cost",
+    "pkief.material-icon-theme",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "xabikos.reactsnippets",
+    "shan.code-settings-sync",
+    "tabnine.tabnine-vscode",
+    "styled-components.vscode-styled-components"
+  ]
+}
