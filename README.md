@@ -1,1 +1,1 @@
-# myVNG-Admin-Platform
+# React Template Structure
